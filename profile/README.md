@@ -7,6 +7,7 @@
 ## 프로젝트 소개
 
 - 도서 쇼핑몰 프로젝트입니다.
+- 도서 조회, 주문, 결제가 가능합니다.
 
 <br>
 
@@ -62,7 +63,6 @@
   - Image Manager
   - Load Balancer
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : Github Discussion
 - [코드 컨벤션](https://github.com/orgs/nhnacademy-be7-2joping/projects/3?pane=issue&itemId=84107378)
   
 <br>
@@ -79,7 +79,7 @@
  
 ### 2. 매일 9시30분 Scrum 진행
 
-- Scrum 사항 및 공유 자료는 Discussion으로 공유하였습니다.
+- Scrum 사항 및 공유 자료는 Gitjub Project에서 공유하였습니다.
 - [Scrum](https://github.com/orgs/nhnacademy-be7-2joping/projects/5)
 
 <br>
