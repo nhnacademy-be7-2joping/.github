@@ -81,7 +81,7 @@
 ### 2. 매일 9시 Scrum 진행
 
 - Scrum 사항 및 공유 자료는 Discussion으로 공유하였습니다.
-- [Scrum]([https://github.com/orgs/nhnacademy-be7-nuri-books/discussions](https://github.com/orgs/nhnacademy-be7-2joping/projects/5))
+- [Scrum](https://github.com/orgs/nhnacademy-be7-2joping/projects/5)
 
 <br>
 
