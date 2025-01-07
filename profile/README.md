@@ -32,7 +32,6 @@
 - 언어: Java 21 LTS<br>
 - 빌드도구: Maven
 - 개발
-  - Spring Framework: 5.3
   - Spring Boot: 3.3.18
   - Spring Cloud
     - Spring Cloud Gateway
